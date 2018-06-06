@@ -1,0 +1,6 @@
+{
+  "data_path": "req_reco\\input_data",
+  "req_out": "req_reco\\req_extract_output",
+  "heading_style": "Heading2",
+  "heading_name": "Detailed description of the enhancement"
+}
