@@ -7,7 +7,6 @@ import zipfile
 
 '''
 Author: Arnab Mukherjee
-Email: armukherjee@deloitte.com
 version: 3.0
 '''
 
